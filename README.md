@@ -5,11 +5,11 @@ Vasagar is a simple console-based library management system built using Java. Th
 ## Features
 ### User Roles:
 
-    #### Librarian:
+    Librarian:
         * Manage books (add, update, delete, or search).
         * View and manage user accounts.
         * View all borrowed books.
-    #### User:
+    User:
         * Search for available books.
         * Borrow and return books.
         * View the list of books they have borrowed.
