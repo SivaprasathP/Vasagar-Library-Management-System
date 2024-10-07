@@ -37,6 +37,9 @@ Vasagar is a simple console-based library management system built using Java. Th
 ## Borrow Book
 ![image](https://github.com/user-attachments/assets/8cc906c4-8c18-47df-bd5b-e8136d2157ad)
 
+## Return Book
+![image](https://github.com/user-attachments/assets/2188a3c3-25a3-49af-b190-ed5ad5161a84)
+
 ## Technologies Used
 
     Java: Core Java is used to build the project, including object-oriented concepts.
